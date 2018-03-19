@@ -1,0 +1,3 @@
+- HWID Fixed
+- Added More Connection Support
+- Freezing Fixed
